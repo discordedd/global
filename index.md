@@ -11,4 +11,7 @@ The only developer is Pacific 🇫🇷#0001 on discord, but if you would like to
 ```
 .!help - Shows a help command.
 .!ping - Gets the ping of the bot.
+.!kick - Kicks a user from the server.
+.!ban - Bans a user permanently.
+.!tempban - Tempbans a user for an amount of time.
 ```
